@@ -1,0 +1,500 @@
+	 a:0.01
+	 Biseção:       	1.01005
+	 Posição Falsa: 	1.01005
+	 Newton Raphson: 	1.01005
+	 Isolamento:(1,2)
+	 a:0.02
+	 Biseção:       	1.0202
+	 Posição Falsa: 	1.02019
+	 Newton Raphson: 	1.0202
+	 Isolamento:(1,2)
+	 a:0.03
+	 Biseção:       	1.03045
+	 Posição Falsa: 	1.03045
+	 Newton Raphson: 	1.03045
+	 Isolamento:(1,2)
+	 a:0.04
+	 Biseção:       	1.04081
+	 Posição Falsa: 	1.04081
+	 Newton Raphson: 	1.04081
+	 Isolamento:(1,2)
+	 a:0.05
+	 Biseção:       	1.05128
+	 Posição Falsa: 	1.05127
+	 Newton Raphson: 	1.05127
+	 Isolamento:(1,2)
+	 a:0.06
+	 Biseção:       	1.06184
+	 Posição Falsa: 	1.06183
+	 Newton Raphson: 	1.06184
+	 Isolamento:(1,2)
+	 a:0.07
+	 Biseção:       	1.0725
+	 Posição Falsa: 	1.0725
+	 Newton Raphson: 	1.07251
+	 Isolamento:(1,2)
+	 a:0.08
+	 Biseção:       	1.08329
+	 Posição Falsa: 	1.08328
+	 Newton Raphson: 	1.08329
+	 Isolamento:(1,2)
+	 a:0.09
+	 Biseção:       	1.09417
+	 Posição Falsa: 	1.09417
+	 Newton Raphson: 	1.09417
+	 Isolamento:(1,2)
+	 a:0.1
+	 Biseção:       	1.10517
+	 Posição Falsa: 	1.10516
+	 Newton Raphson: 	1.10517
+	 Isolamento:(1,2)
+	 a:0.11
+	 Biseção:       	1.11628
+	 Posição Falsa: 	1.11627
+	 Newton Raphson: 	1.11628
+	 Isolamento:(1,2)
+	 a:0.12
+	 Biseção:       	1.12749
+	 Posição Falsa: 	1.12749
+	 Newton Raphson: 	1.1275
+	 Isolamento:(1,2)
+	 a:0.13
+	 Biseção:       	1.13883
+	 Posição Falsa: 	1.13882
+	 Newton Raphson: 	1.13883
+	 Isolamento:(1,2)
+	 a:0.14
+	 Biseção:       	1.15028
+	 Posição Falsa: 	1.15027
+	 Newton Raphson: 	1.15027
+	 Isolamento:(1,2)
+	 a:0.15
+	 Biseção:       	1.16183
+	 Posição Falsa: 	1.16183
+	 Newton Raphson: 	1.16183
+	 Isolamento:(1,2)
+	 a:0.16
+	 Biseção:       	1.17352
+	 Posição Falsa: 	1.17351
+	 Newton Raphson: 	1.17351
+	 Isolamento:(1,2)
+	 a:0.17
+	 Biseção:       	1.18531
+	 Posição Falsa: 	1.1853
+	 Newton Raphson: 	1.1853
+	 Isolamento:(1,2)
+	 a:0.18
+	 Biseção:       	1.19721
+	 Posição Falsa: 	1.19721
+	 Newton Raphson: 	1.19722
+	 Isolamento:(1,2)
+	 a:0.19
+	 Biseção:       	1.20925
+	 Posição Falsa: 	1.20924
+	 Newton Raphson: 	1.20925
+	 Isolamento:(1,2)
+	 a:0.2
+	 Biseção:       	1.2214
+	 Posição Falsa: 	1.2214
+	 Newton Raphson: 	1.2214
+	 Isolamento:(1,2)
+	 a:0.21
+	 Biseção:       	1.23368
+	 Posição Falsa: 	1.23367
+	 Newton Raphson: 	1.23368
+	 Isolamento:(1,2)
+	 a:0.22
+	 Biseção:       	1.24607
+	 Posição Falsa: 	1.24607
+	 Newton Raphson: 	1.24608
+	 Isolamento:(1,2)
+	 a:0.23
+	 Biseção:       	1.2586
+	 Posição Falsa: 	1.2586
+	 Newton Raphson: 	1.2586
+	 Isolamento:(1,2)
+	 a:0.24
+	 Biseção:       	1.27125
+	 Posição Falsa: 	1.27125
+	 Newton Raphson: 	1.27125
+	 Isolamento:(1,2)
+	 a:0.25
+	 Biseção:       	1.28402
+	 Posição Falsa: 	1.28402
+	 Newton Raphson: 	1.28403
+	 Isolamento:(1,2)
+	 a:0.26
+	 Biseção:       	1.29693
+	 Posição Falsa: 	1.29693
+	 Newton Raphson: 	1.29693
+	 Isolamento:(1,2)
+	 a:0.27
+	 Biseção:       	1.30996
+	 Posição Falsa: 	1.30996
+	 Newton Raphson: 	1.30996
+	 Isolamento:(1,2)
+	 a:0.28
+	 Biseção:       	1.32313
+	 Posição Falsa: 	1.32313
+	 Newton Raphson: 	1.32313
+	 Isolamento:(1,2)
+	 a:0.29
+	 Biseção:       	1.33643
+	 Posição Falsa: 	1.33643
+	 Newton Raphson: 	1.33643
+	 Isolamento:(1,2)
+	 a:0.3
+	 Biseção:       	1.34986
+	 Posição Falsa: 	1.34986
+	 Newton Raphson: 	1.34986
+	 Isolamento:(1,2)
+	 a:0.31
+	 Biseção:       	1.36343
+	 Posição Falsa: 	1.36342
+	 Newton Raphson: 	1.36343
+	 Isolamento:(1,2)
+	 a:0.32
+	 Biseção:       	1.37713
+	 Posição Falsa: 	1.37712
+	 Newton Raphson: 	1.37713
+	 Isolamento:(1,2)
+	 a:0.33
+	 Biseção:       	1.39097
+	 Posição Falsa: 	1.39096
+	 Newton Raphson: 	1.39097
+	 Isolamento:(1,2)
+	 a:0.34
+	 Biseção:       	1.40495
+	 Posição Falsa: 	1.40494
+	 Newton Raphson: 	1.40495
+	 Isolamento:(1,2)
+	 a:0.35
+	 Biseção:       	1.41908
+	 Posição Falsa: 	1.41906
+	 Newton Raphson: 	1.41907
+	 Isolamento:(1,2)
+	 a:0.36
+	 Biseção:       	1.43333
+	 Posição Falsa: 	1.43332
+	 Newton Raphson: 	1.43333
+	 Isolamento:(1,2)
+	 a:0.37
+	 Biseção:       	1.44773
+	 Posição Falsa: 	1.44773
+	 Newton Raphson: 	1.44773
+	 Isolamento:(1,2)
+	 a:0.38
+	 Biseção:       	1.46229
+	 Posição Falsa: 	1.46228
+	 Newton Raphson: 	1.46228
+	 Isolamento:(1,2)
+	 a:0.39
+	 Biseção:       	1.47698
+	 Posição Falsa: 	1.47698
+	 Newton Raphson: 	1.47698
+	 Isolamento:(1,2)
+	 a:0.4
+	 Biseção:       	1.49183
+	 Posição Falsa: 	1.49182
+	 Newton Raphson: 	1.49182
+	 Isolamento:(1,2)
+	 a:0.41
+	 Biseção:       	1.50681
+	 Posição Falsa: 	1.50681
+	 Newton Raphson: 	1.50682
+	 Isolamento:(1,2)
+	 a:0.42
+	 Biseção:       	1.52197
+	 Posição Falsa: 	1.52196
+	 Newton Raphson: 	1.52196
+	 Isolamento:(1,2)
+	 a:0.43
+	 Biseção:       	1.53725
+	 Posição Falsa: 	1.53726
+	 Newton Raphson: 	1.53726
+	 Isolamento:(1,2)
+	 a:0.44
+	 Biseção:       	1.55271
+	 Posição Falsa: 	1.55271
+	 Newton Raphson: 	1.55271
+	 Isolamento:(1,2)
+	 a:0.45
+	 Biseção:       	1.56831
+	 Posição Falsa: 	1.56831
+	 Newton Raphson: 	1.56831
+	 Isolamento:(1,2)
+	 a:0.46
+	 Biseção:       	1.58407
+	 Posição Falsa: 	1.58407
+	 Newton Raphson: 	1.58407
+	 Isolamento:(1,2)
+	 a:0.47
+	 Biseção:       	1.6
+	 Posição Falsa: 	1.59999
+	 Newton Raphson: 	1.59999
+	 Isolamento:(1,2)
+	 a:0.48
+	 Biseção:       	1.61608
+	 Posição Falsa: 	1.61607
+	 Newton Raphson: 	1.61607
+	 Isolamento:(1,2)
+	 a:0.49
+	 Biseção:       	1.63232
+	 Posição Falsa: 	1.63231
+	 Newton Raphson: 	1.63232
+	 Isolamento:(1,2)
+	 a:0.5
+	 Biseção:       	1.64872
+	 Posição Falsa: 	1.64872
+	 Newton Raphson: 	1.64872
+	 Isolamento:(1,2)
+	 a:0.51
+	 Biseção:       	1.66529
+	 Posição Falsa: 	1.66529
+	 Newton Raphson: 	1.66529
+	 Isolamento:(1,2)
+	 a:0.52
+	 Biseção:       	1.68203
+	 Posição Falsa: 	1.68202
+	 Newton Raphson: 	1.68203
+	 Isolamento:(1,2)
+	 a:0.53
+	 Biseção:       	1.69894
+	 Posição Falsa: 	1.69893
+	 Newton Raphson: 	1.69893
+	 Isolamento:(1,2)
+	 a:0.54
+	 Biseção:       	1.71601
+	 Posição Falsa: 	1.716
+	 Newton Raphson: 	1.71601
+	 Isolamento:(1,2)
+	 a:0.55
+	 Biseção:       	1.73325
+	 Posição Falsa: 	1.73325
+	 Newton Raphson: 	1.73325
+	 Isolamento:(1,2)
+	 a:0.56
+	 Biseção:       	1.75068
+	 Posição Falsa: 	1.75067
+	 Newton Raphson: 	1.75067
+	 Isolamento:(1,2)
+	 a:0.57
+	 Biseção:       	1.76827
+	 Posição Falsa: 	1.76827
+	 Newton Raphson: 	1.76827
+	 Isolamento:(1,2)
+	 a:0.58
+	 Biseção:       	1.78603
+	 Posição Falsa: 	1.78604
+	 Newton Raphson: 	1.78604
+	 Isolamento:(1,2)
+	 a:0.59
+	 Biseção:       	1.80399
+	 Posição Falsa: 	1.80398
+	 Newton Raphson: 	1.80399
+	 Isolamento:(1,2)
+	 a:0.6
+	 Biseção:       	1.82212
+	 Posição Falsa: 	1.82211
+	 Newton Raphson: 	1.82212
+	 Isolamento:(1,2)
+	 a:0.61
+	 Biseção:       	1.84043
+	 Posição Falsa: 	1.84043
+	 Newton Raphson: 	1.84043
+	 Isolamento:(1,2)
+	 a:0.62
+	 Biseção:       	1.85892
+	 Posição Falsa: 	1.85893
+	 Newton Raphson: 	1.85893
+	 Isolamento:(1,2)
+	 a:0.63
+	 Biseção:       	1.87762
+	 Posição Falsa: 	1.87761
+	 Newton Raphson: 	1.87761
+	 Isolamento:(1,2)
+	 a:0.64
+	 Biseção:       	1.89648
+	 Posição Falsa: 	1.89648
+	 Newton Raphson: 	1.89648
+	 Isolamento:(1,2)
+	 a:0.65
+	 Biseção:       	1.91553
+	 Posição Falsa: 	1.91554
+	 Newton Raphson: 	1.91554
+	 Isolamento:(1,2)
+	 a:0.66
+	 Biseção:       	1.93479
+	 Posição Falsa: 	1.93479
+	 Newton Raphson: 	1.93479
+	 Isolamento:(1,2)
+	 a:0.67
+	 Biseção:       	1.95423
+	 Posição Falsa: 	1.95423
+	 Newton Raphson: 	1.95424
+	 Isolamento:(1,2)
+	 a:0.68
+	 Biseção:       	1.97388
+	 Posição Falsa: 	1.97388
+	 Newton Raphson: 	1.97388
+	 Isolamento:(1,2)
+	 a:0.69
+	 Biseção:       	1.99372
+	 Posição Falsa: 	1.99371
+	 Newton Raphson: 	1.99372
+	 Isolamento:(1,2)
+	 a:0.7
+	 Biseção:       	2.01376
+	 Posição Falsa: 	2.01375
+	 Newton Raphson: 	2.01375
+	 Isolamento:(2,3)
+	 a:0.71
+	 Biseção:       	2.03399
+	 Posição Falsa: 	2.03399
+	 Newton Raphson: 	2.03399
+	 Isolamento:(2,3)
+	 a:0.72
+	 Biseção:       	2.05444
+	 Posição Falsa: 	2.05443
+	 Newton Raphson: 	2.05443
+	 Isolamento:(2,3)
+	 a:0.73
+	 Biseção:       	2.07508
+	 Posição Falsa: 	2.07507
+	 Newton Raphson: 	2.07508
+	 Isolamento:(2,3)
+	 a:0.74
+	 Biseção:       	2.09594
+	 Posição Falsa: 	2.09593
+	 Newton Raphson: 	2.09594
+	 Isolamento:(2,3)
+	 a:0.75
+	 Biseção:       	2.117
+	 Posição Falsa: 	2.117
+	 Newton Raphson: 	2.117
+	 Isolamento:(2,3)
+	 a:0.76
+	 Biseção:       	2.13828
+	 Posição Falsa: 	2.13827
+	 Newton Raphson: 	2.13828
+	 Isolamento:(2,3)
+	 a:0.77
+	 Biseção:       	2.15977
+	 Posição Falsa: 	2.15976
+	 Newton Raphson: 	2.15977
+	 Isolamento:(2,3)
+	 a:0.78
+	 Biseção:       	2.18147
+	 Posição Falsa: 	2.18147
+	 Newton Raphson: 	2.18147
+	 Isolamento:(2,3)
+	 a:0.79
+	 Biseção:       	2.20339
+	 Posição Falsa: 	2.20339
+	 Newton Raphson: 	2.2034
+	 Isolamento:(2,3)
+	 a:0.8
+	 Biseção:       	2.22555
+	 Posição Falsa: 	2.22554
+	 Newton Raphson: 	2.22554
+	 Isolamento:(2,3)
+	 a:0.81
+	 Biseção:       	2.2479
+	 Posição Falsa: 	2.24791
+	 Newton Raphson: 	2.24791
+	 Isolamento:(2,3)
+	 a:0.82
+	 Biseção:       	2.2705
+	 Posição Falsa: 	2.27049
+	 Newton Raphson: 	2.2705
+	 Isolamento:(2,3)
+	 a:0.83
+	 Biseção:       	2.29331
+	 Posição Falsa: 	2.29331
+	 Newton Raphson: 	2.29332
+	 Isolamento:(2,3)
+	 a:0.84
+	 Biseção:       	2.31637
+	 Posição Falsa: 	2.31636
+	 Newton Raphson: 	2.31637
+	 Isolamento:(2,3)
+	 a:0.85
+	 Biseção:       	2.33965
+	 Posição Falsa: 	2.33964
+	 Newton Raphson: 	2.33965
+	 Isolamento:(2,3)
+	 a:0.86
+	 Biseção:       	2.36317
+	 Posição Falsa: 	2.36315
+	 Newton Raphson: 	2.36316
+	 Isolamento:(2,3)
+	 a:0.87
+	 Biseção:       	2.38691
+	 Posição Falsa: 	2.3869
+	 Newton Raphson: 	2.38691
+	 Isolamento:(2,3)
+	 a:0.88
+	 Biseção:       	2.4109
+	 Posição Falsa: 	2.41089
+	 Newton Raphson: 	2.4109
+	 Isolamento:(2,3)
+	 a:0.89
+	 Biseção:       	2.43513
+	 Posição Falsa: 	2.43513
+	 Newton Raphson: 	2.43513
+	 Isolamento:(2,3)
+	 a:0.9
+	 Biseção:       	2.4596
+	 Posição Falsa: 	2.4596
+	 Newton Raphson: 	2.4596
+	 Isolamento:(2,3)
+	 a:0.91
+	 Biseção:       	2.48432
+	 Posição Falsa: 	2.48432
+	 Newton Raphson: 	2.48432
+	 Isolamento:(2,3)
+	 a:0.92
+	 Biseção:       	2.50928
+	 Posição Falsa: 	2.50929
+	 Newton Raphson: 	2.50929
+	 Isolamento:(2,3)
+	 a:0.93
+	 Biseção:       	2.53451
+	 Posição Falsa: 	2.53451
+	 Newton Raphson: 	2.53451
+	 Isolamento:(2,3)
+	 a:0.94
+	 Biseção:       	2.55997
+	 Posição Falsa: 	2.55998
+	 Newton Raphson: 	2.55998
+	 Isolamento:(2,3)
+	 a:0.95
+	 Biseção:       	2.58572
+	 Posição Falsa: 	2.58571
+	 Newton Raphson: 	2.58571
+	 Isolamento:(2,3)
+	 a:0.96
+	 Biseção:       	2.6117
+	 Posição Falsa: 	2.6117
+	 Newton Raphson: 	2.6117
+	 Isolamento:(2,3)
+	 a:0.97
+	 Biseção:       	2.63795
+	 Posição Falsa: 	2.63794
+	 Newton Raphson: 	2.63794
+	 Isolamento:(2,3)
+	 a:0.98
+	 Biseção:       	2.66445
+	 Posição Falsa: 	2.66445
+	 Newton Raphson: 	2.66446
+	 Isolamento:(2,3)
+	 a:0.99
+	 Biseção:       	2.69123
+	 Posição Falsa: 	2.69123
+	 Newton Raphson: 	2.69123
+	 Isolamento:(2,3)
+	 a:1
+	 Biseção:       	2.71828
+	 Posição Falsa: 	2.71828
+	 Newton Raphson: 	2.71828
+	 Isolamento:(2,3)
